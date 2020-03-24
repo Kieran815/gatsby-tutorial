@@ -1,0 +1,1 @@
+module.exports = require("/home/terminal/Documents/WebDev/CourseWork/tutorial-part-four/src/utils/typography")
